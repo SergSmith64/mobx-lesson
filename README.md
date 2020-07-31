@@ -7,3 +7,7 @@
 * jsconfig.json
 
 * .babelrc
+
+* SomeComponent.js
+
+* SomeComponentFunc.js
